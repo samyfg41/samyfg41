@@ -54,6 +54,14 @@ Me chamo Samantha Faruolo Galdi, tenho 19 anos e sou natural de São Paulo. Atua
 />
 <img 
     align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Java"
     title="Java" 
     width="40px" 
