@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Samantha Faruolo Galdi, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
+Me chamo Samantha Faruolo Galdi, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
 
 
 
