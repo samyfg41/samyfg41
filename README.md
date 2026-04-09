@@ -8,7 +8,7 @@ Me chamo Samantha Faruolo Galdi, tenho 20 anos e sou natural de São Paulo. Atua
 
 <p align="left">
     </a> 
-    <a href="https://www.linkedin.com/in/samantha-faruolo-galdi-534422301/">
+    <a href="www.linkedin.com/in/samantha-faruolo-galdi-534422301">
         <img 
             alt="[Meu Linkedin]" 
             title="Meu Linkedin" 
