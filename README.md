@@ -2,7 +2,7 @@
 
 **`Desenvolvedora`**
 
-Me chamo Samantha Faruolo Galdi, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
+Me chamo Samantha Faruolo Galdi, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
 
 
 
